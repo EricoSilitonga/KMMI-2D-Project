@@ -22,7 +22,7 @@ public class PlayerMovement : MonoBehaviour
     public LayerMask whatIsGround;
     public int score;
     public UI ui;
-
+    private bool isJump = false;
     private void Start()
     {
         score = 0;
@@ -33,12 +33,14 @@ public class PlayerMovement : MonoBehaviour
 
     void CheckAnimation()
     {
+        anim.SetBool("Jump", isJump);
         anim.SetBool("Running", isRunning);
         anim.SetBool("Idle", isIdle);
     }
 
     private void Update()
     {
+        
         moveDir = CrossPlatformInputManager.GetAxisRaw("Horizontal");
         
         if (Mathf.Abs(rb.velocity.x)>= 0.01f)
@@ -72,16 +74,18 @@ public class PlayerMovement : MonoBehaviour
         if (CrossPlatformInputManager.GetButtonDown("Jump") && IsGrounded())
         {
             AudioManager.instance.PlaySFX(0);
+            isJump = true;
             rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
         }
 
         CheckAnimation();
     }
 
- 
+
 
     bool IsGrounded()
     {
+       
         return Physics2D.Raycast(transform.position, Vector2.down, 2f,whatIsGround);
     }
 
