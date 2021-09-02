@@ -1,7 +1,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":false},"in2DMode":true,"pivot":{"x":-10.615140914916993,"y":1.4562822580337525,"z":-1.001666784286499},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":10.862292289733887,"orthographic":true}
+=======
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":false},"in2DMode":true,"pivot":{"x":4.612747669219971,"y":-3.062427282333374,"z":-0.2612496316432953},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":3.066448450088501,"orthographic":true}
+>>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":false},"in2DMode":true,"pivot":{"x":4.612747669219971,"y":-3.062427282333374,"z":-0.2612496316432953},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":3.066448450088501,"orthographic":true}
 >>>>>>> parent of b31d845 (Revert "Added rock")

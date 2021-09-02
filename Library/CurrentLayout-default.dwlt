@@ -22,9 +22,15 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Title: Hierarchy
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
+=======
+  m_Title: Animator
+  m_RootView: {fileID: 2}
+  m_MinSize: {x: 875, y: 542}
+>>>>>>> parent of b31d845 (Revert "Added rock")
 =======
   m_Title: Animator
   m_RootView: {fileID: 2}
@@ -144,7 +150,11 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 34
+=======
+  controlID: 344
+>>>>>>> parent of b31d845 (Revert "Added rock")
 =======
   controlID: 344
 >>>>>>> parent of b31d845 (Revert "Added rock")
@@ -178,6 +188,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_MinSize: {x: 201, y: 442}
   m_MaxSize: {x: 4001, y: 8042}
   vertical: 1
@@ -192,6 +203,12 @@ MonoBehaviour:
 <<<<<<< HEAD
 >>>>>>> parent of b31d845 (Revert "Added rock")
 =======
+>>>>>>> parent of b31d845 (Revert "Added rock")
+=======
+  m_MinSize: {x: 201, y: 342}
+  m_MaxSize: {x: 4001, y: 8042}
+  vertical: 1
+  controlID: 1391
 >>>>>>> parent of b31d845 (Revert "Added rock")
 =======
   m_MinSize: {x: 201, y: 342}
@@ -221,9 +238,15 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 14}
+=======
+  m_MinSize: {x: 101, y: 121}
+  m_MaxSize: {x: 4001, y: 4021}
+  m_ActualView: {fileID: 17}
+>>>>>>> parent of b31d845 (Revert "Added rock")
 =======
   m_MinSize: {x: 101, y: 121}
   m_MaxSize: {x: 4001, y: 4021}
@@ -300,7 +323,11 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 43
+=======
+  controlID: 111
+>>>>>>> parent of b31d845 (Revert "Added rock")
 =======
   controlID: 111
 >>>>>>> parent of b31d845 (Revert "Added rock")
@@ -517,9 +544,15 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: -10.615141, y: 1.4562823, z: -1.0016668}
     speed: 2
     m_Value: {x: -9.535506, y: 1.4143547, z: -0.9548914}
+=======
+    m_Target: {x: 4.6127477, y: -3.0624273, z: -0.26124963}
+    speed: 2
+    m_Value: {x: 4.7266717, y: -3.1186495, z: -0.24804482}
+>>>>>>> parent of b31d845 (Revert "Added rock")
 =======
     m_Target: {x: 4.6127477, y: -3.0624273, z: -0.26124963}
     speed: 2
@@ -588,9 +621,15 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: 10.862292
     speed: 2
     m_Value: 10.394538
+=======
+    m_Target: 3.0664485
+    speed: 2
+    m_Value: 2.9344003
+>>>>>>> parent of b31d845 (Revert "Added rock")
 =======
     m_Target: 3.0664485
     speed: 2
@@ -724,22 +763,7 @@ MonoBehaviour:
       e13: 52.86106
 <<<<<<< HEAD
 <<<<<<< HEAD
-      e20: 0
-      e21: 0
-      e22: 1
-      e23: 0
-      e30: 0
-      e31: 0
-      e32: 0
-      e33: 1
-    - e00: 0.559579
-      e01: 0
-      e02: 0
-      e03: -12.978973
-      e10: 0
-      e11: 0.559579
-      e12: 0
-      e13: 80.84003
+<<<<<<< HEAD
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
       e20: 0
@@ -758,6 +782,28 @@ MonoBehaviour:
       e11: 0.559579
       e12: 0
       e13: 80.84003
+<<<<<<< HEAD
+=======
+>>>>>>> parent of b31d845 (Revert "Added rock")
+=======
+>>>>>>> parent of b31d845 (Revert "Added rock")
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    - e00: 0.559579
+      e01: 0
+      e02: 0
+      e03: -12.978973
+      e10: 0
+      e11: 0.559579
+      e12: 0
+      e13: 80.84003
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 =======
@@ -797,6 +843,8 @@ MonoBehaviour:
       e11: 0.559579
       e12: 0
       e13: 80.84003
+>>>>>>> parent of b31d845 (Revert "Added rock")
+=======
 >>>>>>> parent of b31d845 (Revert "Added rock")
       e20: 0
       e21: 0
@@ -878,9 +926,15 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_SelectedIDs: 743f0000
       m_LastClickedID: 16244
       m_ExpandedIDs: 24fbffff
+=======
+      m_SelectedIDs: 48400000
+      m_LastClickedID: 0
+      m_ExpandedIDs: f6c0ffff4ad5ffff36f9ffff7ef9ffff24fbffff723f0000823f000008650000
+>>>>>>> parent of b31d845 (Revert "Added rock")
 =======
       m_SelectedIDs: 48400000
       m_LastClickedID: 0
@@ -960,7 +1014,11 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     - Assets/Script
+=======
+    - Assets/Animation/Enemy/Fire
+>>>>>>> parent of b31d845 (Revert "Added rock")
 =======
     - Assets/Animation/Enemy/Fire
 >>>>>>> parent of b31d845 (Revert "Added rock")
@@ -986,7 +1044,11 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000a03f00005e42000060420000624200006442000066420000684200006a4200006c4200006e4200007042000072420000
+=======
+    m_ExpandedIDs: 00000000224000002640000028400000d4420000d6420000d8420000da420000dc420000de420000e0420000e2420000e4420000e6420000e8420000ea420000ec420000
+>>>>>>> parent of b31d845 (Revert "Added rock")
 =======
     m_ExpandedIDs: 00000000224000002640000028400000d4420000d6420000d8420000da420000dc420000de420000e0420000e2420000e4420000e6420000e8420000ea420000ec420000
 >>>>>>> parent of b31d845 (Revert "Added rock")
@@ -1026,7 +1088,11 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: ffffffff00000000a03f00005e42000060420000624200006442000066420000684200006a4200006e4200007042000072420000
+=======
+    m_ExpandedIDs: ffffffff00000000224000002640000028400000d4420000d6420000d8420000da420000dc420000de420000e0420000e2420000e4420000e6420000e8420000ea420000ec420000424300007c480000
+>>>>>>> parent of b31d845 (Revert "Added rock")
 =======
     m_ExpandedIDs: ffffffff00000000224000002640000028400000d4420000d6420000d8420000da420000dc420000de420000e0420000e2420000e4420000e6420000e8420000ea420000ec420000424300007c480000
 >>>>>>> parent of b31d845 (Revert "Added rock")

@@ -18,6 +18,7 @@ Logs/AssetImportWorker0.log
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<<< HEAD:Logs/AssetImportWorker0.log
 49364
 Successfully changed project path to: C:/Users/ERICO SILITONGA/Desktop/Unity Projects/KMMI 2D Project
@@ -36,6 +37,8 @@ Refreshing native plugins compatible for Editor in 41.57 ms, found 1 plugins.
 >>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
+=======
+>>>>>>> parent of b31d845 (Revert "Added rock")
 55521
 Successfully changed project path to: C:/Users/ERICO SILITONGA/Desktop/Unity Projects/KMMI 2D Project
 C:/Users/ERICO SILITONGA/Desktop/Unity Projects/KMMI 2D Project
@@ -43,6 +46,9 @@ Using Asset Import Pipeline V2.
 Refreshing native plugins compatible for Editor in 44.66 ms, found 1 plugins.
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of b31d845 (Revert "Added rock")
+=======
 >>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
@@ -66,6 +72,7 @@ Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Mon
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<<< HEAD:Logs/AssetImportWorker0.log
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56768
 ========
@@ -80,10 +87,14 @@ Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,susp
 =======
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56424
 >>>>>>> parent of b31d845 (Revert "Added rock")
+=======
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56424
+>>>>>>> parent of b31d845 (Revert "Added rock")
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -103,12 +114,17 @@ Refreshing native plugins compatible for Editor in 33.86 ms, found 1 plugins.
 >>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
+=======
+>>>>>>> parent of b31d845 (Revert "Added rock")
 Registered in 0.003521 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 39.93 ms, found 1 plugins.
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of b31d845 (Revert "Added rock")
+=======
 >>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
@@ -119,6 +135,7 @@ Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -146,6 +163,8 @@ Refreshing native plugins compatible for Editor in 40.13 ms, found 1 plugins.
 >>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
+=======
+>>>>>>> parent of b31d845 (Revert "Added rock")
 - Completed reload, in  1.553 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
@@ -154,6 +173,7 @@ Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 34.27 ms, found 1 plugins.
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> parent of b31d845 (Revert "Added rock")
@@ -278,11 +298,14 @@ Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
 >>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
+=======
+>>>>>>> parent of b31d845 (Revert "Added rock")
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 - Completed reload, in  0.901 seconds
@@ -296,6 +319,8 @@ System memory in use after: 87.0 MB.
 Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2246.
 Total: 1.675500 ms (FindLiveObjects: 0.155600 ms CreateObjectMapping: 0.057800 ms MarkObjects: 1.447200 ms  DeleteObjects: 0.014000 ms)
 =======
+=======
+>>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
 =======
@@ -373,6 +398,9 @@ Start importing Assets/Pixel Adventure 1/Assets/Traps/Rock Head/Blink (42x42).pn
   Import took 0.048463 seconds .
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of b31d845 (Revert "Added rock")
+=======
 >>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
@@ -382,6 +410,7 @@ Start importing Assets/Pixel Adventure 1/Assets/Traps/Rock Head/Blink (42x42).pn
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -395,6 +424,8 @@ Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
 >>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
+=======
+>>>>>>> parent of b31d845 (Revert "Added rock")
 Registered in 0.001032 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
@@ -402,6 +433,9 @@ Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of b31d845 (Revert "Added rock")
+=======
 >>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
@@ -412,6 +446,7 @@ Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -430,6 +465,8 @@ Total: 1.747000 ms (FindLiveObjects: 0.189800 ms CreateObjectMapping: 0.062500 m
 >>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
+=======
+>>>>>>> parent of b31d845 (Revert "Added rock")
 - Completed reload, in  1.161 seconds
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
@@ -442,6 +479,9 @@ Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2246.
 Total: 2.364500 ms (FindLiveObjects: 0.190700 ms CreateObjectMapping: 0.067200 ms MarkObjects: 2.088400 ms  DeleteObjects: 0.017000 ms)
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of b31d845 (Revert "Added rock")
+=======
 >>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
@@ -451,6 +491,7 @@ Total: 2.364500 ms (FindLiveObjects: 0.190700 ms CreateObjectMapping: 0.067200 m
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -464,6 +505,8 @@ Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
 >>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
+=======
+>>>>>>> parent of b31d845 (Revert "Added rock")
 Registered in 0.001672 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
@@ -471,6 +514,9 @@ Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of b31d845 (Revert "Added rock")
+=======
 >>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
@@ -481,6 +527,7 @@ Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -499,6 +546,8 @@ Total: 2.079900 ms (FindLiveObjects: 0.252500 ms CreateObjectMapping: 0.093400 m
 >>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
+=======
+>>>>>>> parent of b31d845 (Revert "Added rock")
 - Completed reload, in  1.145 seconds
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
@@ -511,6 +560,9 @@ Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2248.
 Total: 2.406200 ms (FindLiveObjects: 0.203400 ms CreateObjectMapping: 0.073700 ms MarkObjects: 2.108100 ms  DeleteObjects: 0.019300 ms)
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of b31d845 (Revert "Added rock")
+=======
 >>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
@@ -520,6 +572,7 @@ Total: 2.406200 ms (FindLiveObjects: 0.203400 ms CreateObjectMapping: 0.073700 m
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -533,6 +586,8 @@ Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
 >>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
+=======
+>>>>>>> parent of b31d845 (Revert "Added rock")
 Registered in 0.001235 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
@@ -540,6 +595,9 @@ Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of b31d845 (Revert "Added rock")
+=======
 >>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
@@ -550,6 +608,7 @@ Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -568,6 +627,8 @@ Total: 2.376800 ms (FindLiveObjects: 0.353300 ms CreateObjectMapping: 0.139600 m
 >>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
+=======
+>>>>>>> parent of b31d845 (Revert "Added rock")
 - Completed reload, in  1.046 seconds
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
@@ -580,6 +641,9 @@ Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2250.
 Total: 2.693500 ms (FindLiveObjects: 0.207400 ms CreateObjectMapping: 0.062900 ms MarkObjects: 2.395700 ms  DeleteObjects: 0.026500 ms)
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of b31d845 (Revert "Added rock")
+=======
 >>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
@@ -589,6 +653,7 @@ Total: 2.693500 ms (FindLiveObjects: 0.207400 ms CreateObjectMapping: 0.062900 m
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -602,6 +667,8 @@ Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
 >>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
+=======
+>>>>>>> parent of b31d845 (Revert "Added rock")
 Registered in 0.001247 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
@@ -609,6 +676,9 @@ Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of b31d845 (Revert "Added rock")
+=======
 >>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
@@ -619,6 +689,7 @@ Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -637,6 +708,8 @@ Total: 2.024100 ms (FindLiveObjects: 0.336200 ms CreateObjectMapping: 0.071600 m
 >>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
+=======
+>>>>>>> parent of b31d845 (Revert "Added rock")
 - Completed reload, in  1.152 seconds
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
@@ -649,6 +722,9 @@ Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2252.
 Total: 2.923600 ms (FindLiveObjects: 0.840000 ms CreateObjectMapping: 0.100600 ms MarkObjects: 1.964000 ms  DeleteObjects: 0.016700 ms)
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of b31d845 (Revert "Added rock")
+=======
 >>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
@@ -658,6 +734,7 @@ Total: 2.923600 ms (FindLiveObjects: 0.840000 ms CreateObjectMapping: 0.100600 m
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -671,6 +748,8 @@ Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
 >>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
+=======
+>>>>>>> parent of b31d845 (Revert "Added rock")
 Registered in 0.002343 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
@@ -678,6 +757,9 @@ Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of b31d845 (Revert "Added rock")
+=======
 >>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
@@ -688,6 +770,7 @@ Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -706,6 +789,8 @@ Total: 1.875900 ms (FindLiveObjects: 0.138400 ms CreateObjectMapping: 0.045300 m
 >>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
+=======
+>>>>>>> parent of b31d845 (Revert "Added rock")
 - Completed reload, in  1.158 seconds
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
@@ -718,6 +803,9 @@ Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2254.
 Total: 2.523300 ms (FindLiveObjects: 0.451700 ms CreateObjectMapping: 0.099900 ms MarkObjects: 1.953900 ms  DeleteObjects: 0.016200 ms)
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of b31d845 (Revert "Added rock")
+=======
 >>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
@@ -727,6 +815,7 @@ Total: 2.523300 ms (FindLiveObjects: 0.451700 ms CreateObjectMapping: 0.099900 m
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -740,6 +829,8 @@ Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
 >>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
+=======
+>>>>>>> parent of b31d845 (Revert "Added rock")
 Registered in 0.001463 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
@@ -747,6 +838,9 @@ Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of b31d845 (Revert "Added rock")
+=======
 >>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
@@ -757,6 +851,7 @@ Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -775,6 +870,8 @@ Total: 1.957600 ms (FindLiveObjects: 0.160800 ms CreateObjectMapping: 0.059200 m
 >>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
+=======
+>>>>>>> parent of b31d845 (Revert "Added rock")
 - Completed reload, in  1.274 seconds
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
@@ -787,6 +884,9 @@ Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2256.
 Total: 2.430600 ms (FindLiveObjects: 0.188800 ms CreateObjectMapping: 0.074100 ms MarkObjects: 2.136100 ms  DeleteObjects: 0.030100 ms)
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of b31d845 (Revert "Added rock")
+=======
 >>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
@@ -796,6 +896,7 @@ Total: 2.430600 ms (FindLiveObjects: 0.188800 ms CreateObjectMapping: 0.074100 m
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -809,6 +910,8 @@ Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
 >>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
+=======
+>>>>>>> parent of b31d845 (Revert "Added rock")
 Registered in 0.003743 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
@@ -816,6 +919,9 @@ Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of b31d845 (Revert "Added rock")
+=======
 >>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
@@ -826,6 +932,7 @@ Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -842,6 +949,8 @@ Total: 1.795500 ms (FindLiveObjects: 0.160500 ms CreateObjectMapping: 0.058300 m
 =======
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
+=======
+>>>>>>> parent of b31d845 (Revert "Added rock")
 - Completed reload, in  1.166 seconds
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
@@ -853,6 +962,9 @@ System memory in use after: 87.7 MB.
 Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2258.
 Total: 1.918900 ms (FindLiveObjects: 0.183700 ms CreateObjectMapping: 0.068600 ms MarkObjects: 1.649200 ms  DeleteObjects: 0.016100 ms)
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of b31d845 (Revert "Added rock")
+=======
 >>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
@@ -860,6 +972,7 @@ Total: 1.918900 ms (FindLiveObjects: 0.183700 ms CreateObjectMapping: 0.068600 m
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 Registered in 0.001211 seconds.
@@ -870,12 +983,17 @@ Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
 =======
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
+=======
+>>>>>>> parent of b31d845 (Revert "Added rock")
 Registered in 0.001250 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of b31d845 (Revert "Added rock")
+=======
 >>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
@@ -884,6 +1002,7 @@ Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 - Completed reload, in  0.910 seconds
@@ -911,6 +1030,8 @@ Total: 1.918900 ms (FindLiveObjects: 0.183700 ms CreateObjectMapping: 0.068600 m
 =======
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
+=======
+>>>>>>> parent of b31d845 (Revert "Added rock")
 - Completed reload, in  1.106 seconds
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
@@ -922,6 +1043,9 @@ System memory in use after: 87.8 MB.
 Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2260.
 Total: 3.111800 ms (FindLiveObjects: 0.577100 ms CreateObjectMapping: 0.264000 ms MarkObjects: 2.250700 ms  DeleteObjects: 0.018300 ms)
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of b31d845 (Revert "Added rock")
+=======
 >>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
@@ -929,6 +1053,7 @@ Total: 3.111800 ms (FindLiveObjects: 0.577100 ms CreateObjectMapping: 0.264000 m
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -943,12 +1068,17 @@ Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
 =======
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
+=======
+>>>>>>> parent of b31d845 (Revert "Added rock")
 Registered in 0.001150 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 0.37 ms, found 1 plugins.
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of b31d845 (Revert "Added rock")
+=======
 >>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
@@ -957,6 +1087,7 @@ Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -973,6 +1104,8 @@ Total: 2.014200 ms (FindLiveObjects: 0.199100 ms CreateObjectMapping: 0.071200 m
 =======
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
+=======
+>>>>>>> parent of b31d845 (Revert "Added rock")
 - Completed reload, in  1.177 seconds
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
@@ -984,6 +1117,9 @@ System memory in use after: 87.9 MB.
 Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2262.
 Total: 3.490600 ms (FindLiveObjects: 0.400100 ms CreateObjectMapping: 0.145100 ms MarkObjects: 2.923000 ms  DeleteObjects: 0.020500 ms)
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of b31d845 (Revert "Added rock")
+=======
 >>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
@@ -991,6 +1127,7 @@ Total: 3.490600 ms (FindLiveObjects: 0.400100 ms CreateObjectMapping: 0.145100 m
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 Registered in 0.001097 seconds.
@@ -1001,12 +1138,17 @@ Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
 =======
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
+=======
+>>>>>>> parent of b31d845 (Revert "Added rock")
 Registered in 0.001091 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of b31d845 (Revert "Added rock")
+=======
 >>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
@@ -1015,6 +1157,7 @@ Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 - Completed reload, in  0.984 seconds
@@ -1030,6 +1173,8 @@ Total: 3.066800 ms (FindLiveObjects: 0.182600 ms CreateObjectMapping: 0.064600 m
 =======
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
+=======
+>>>>>>> parent of b31d845 (Revert "Added rock")
 - Completed reload, in  1.110 seconds
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
@@ -1041,6 +1186,9 @@ System memory in use after: 87.9 MB.
 Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2264.
 Total: 3.304800 ms (FindLiveObjects: 0.304200 ms CreateObjectMapping: 1.086100 ms MarkObjects: 1.893700 ms  DeleteObjects: 0.019500 ms)
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of b31d845 (Revert "Added rock")
+=======
 >>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
@@ -1048,6 +1196,7 @@ Total: 3.304800 ms (FindLiveObjects: 0.304200 ms CreateObjectMapping: 1.086100 m
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 Registered in 0.001127 seconds.
@@ -1058,12 +1207,17 @@ Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
 =======
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
+=======
+>>>>>>> parent of b31d845 (Revert "Added rock")
 Registered in 0.001175 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of b31d845 (Revert "Added rock")
+=======
 >>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
@@ -1072,6 +1226,7 @@ Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 - Completed reload, in  1.007 seconds
@@ -1087,6 +1242,8 @@ Total: 1.992400 ms (FindLiveObjects: 0.212300 ms CreateObjectMapping: 0.080400 m
 =======
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
+=======
+>>>>>>> parent of b31d845 (Revert "Added rock")
 - Completed reload, in  1.003 seconds
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
@@ -1098,6 +1255,9 @@ System memory in use after: 88.0 MB.
 Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2266.
 Total: 2.003900 ms (FindLiveObjects: 0.213900 ms CreateObjectMapping: 0.068500 ms MarkObjects: 1.707200 ms  DeleteObjects: 0.013100 ms)
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of b31d845 (Revert "Added rock")
+=======
 >>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
@@ -1105,6 +1265,7 @@ Total: 2.003900 ms (FindLiveObjects: 0.213900 ms CreateObjectMapping: 0.068500 m
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 Registered in 0.001095 seconds.
@@ -1115,12 +1276,17 @@ Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
 =======
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
+=======
+>>>>>>> parent of b31d845 (Revert "Added rock")
 Registered in 0.001113 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of b31d845 (Revert "Added rock")
+=======
 >>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
@@ -1129,6 +1295,7 @@ Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 - Completed reload, in  0.931 seconds
@@ -1216,6 +1383,8 @@ Start importing Assets/Pixel Adventure 1/Assets/Traps/Platforms/Grey Off.png usi
 =======
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
+=======
+>>>>>>> parent of b31d845 (Revert "Added rock")
 - Completed reload, in  1.204 seconds
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
@@ -1227,6 +1396,9 @@ System memory in use after: 88.1 MB.
 Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2268.
 Total: 2.115200 ms (FindLiveObjects: 0.272600 ms CreateObjectMapping: 0.106800 ms MarkObjects: 1.718100 ms  DeleteObjects: 0.016100 ms)
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of b31d845 (Revert "Added rock")
+=======
 >>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
@@ -1234,6 +1406,7 @@ Total: 2.115200 ms (FindLiveObjects: 0.272600 ms CreateObjectMapping: 0.106800 m
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 Registered in 0.001580 seconds.
@@ -1244,12 +1417,17 @@ Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
 =======
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
+=======
+>>>>>>> parent of b31d845 (Revert "Added rock")
 Registered in 0.001509 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 0.37 ms, found 1 plugins.
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of b31d845 (Revert "Added rock")
+=======
 >>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
@@ -1258,6 +1436,7 @@ Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 - Completed reload, in  1.016 seconds
@@ -1283,11 +1462,19 @@ Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1782 Unused Serialized files (Serialized files now loaded: 0)
 >>>>>>> parent of b31d845 (Revert "Added rock")
+=======
+- Completed reload, in  1.021 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1782 Unused Serialized files (Serialized files now loaded: 0)
+>>>>>>> parent of b31d845 (Revert "Added rock")
 System memory in use before: 88.1 MB.
 System memory in use after: 88.2 MB.
 
 Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2270.
 Total: 2.008400 ms (FindLiveObjects: 0.202100 ms CreateObjectMapping: 0.069800 ms MarkObjects: 1.719200 ms  DeleteObjects: 0.016100 ms)
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> parent of b31d845 (Revert "Added rock")
 
@@ -1375,10 +1562,13 @@ System memory in use after: 87.8 MB.
 Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2260.
 Total: 3.111800 ms (FindLiveObjects: 0.577100 ms CreateObjectMapping: 0.264000 ms MarkObjects: 2.250700 ms  DeleteObjects: 0.018300 ms)
 >>>>>>> parent of b31d845 (Revert "Added rock")
+=======
+>>>>>>> parent of b31d845 (Revert "Added rock")
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
+<<<<<<< HEAD
 <<<<<<< HEAD
 Registered in 0.001241 seconds.
 Begin MonoManager ReloadAssembly
@@ -1684,6 +1874,8 @@ Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
 >>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
+=======
+>>>>>>> parent of b31d845 (Revert "Added rock")
 Registered in 0.001285 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
@@ -1691,6 +1883,9 @@ Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of b31d845 (Revert "Added rock")
+=======
 >>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
@@ -1704,9 +1899,15 @@ Mono: successfully reloaded assembly
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 - Completed reload, in  0.912 seconds
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+=======
+- Completed reload, in  1.076 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+>>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 - Completed reload, in  1.076 seconds
 Platform modules already initialized, skipping
@@ -1730,8 +1931,13 @@ System memory in use after: 88.3 MB.
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2308.
 Total: 2.526100 ms (FindLiveObjects: 0.330000 ms CreateObjectMapping: 0.079900 ms MarkObjects: 2.097000 ms  DeleteObjects: 0.017700 ms)
+=======
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2272.
+Total: 1.860600 ms (FindLiveObjects: 0.177700 ms CreateObjectMapping: 0.066900 ms MarkObjects: 1.594900 ms  DeleteObjects: 0.019500 ms)
+>>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2272.
 Total: 1.860600 ms (FindLiveObjects: 0.177700 ms CreateObjectMapping: 0.066900 ms MarkObjects: 1.594900 ms  DeleteObjects: 0.019500 ms)
@@ -1751,12 +1957,15 @@ Registering precompiled user dll's ...
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Registered in 0.001168 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 0.71 ms, found 1 plugins.
 =======
+=======
+>>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
 =======
@@ -1768,6 +1977,9 @@ Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 0.66 ms, found 1 plugins.
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of b31d845 (Revert "Added rock")
+=======
 >>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
@@ -1778,6 +1990,7 @@ Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1799,11 +2012,17 @@ Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
 >>>>>>> parent of b31d845 (Revert "Added rock")
+=======
+- Completed reload, in  1.002 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+>>>>>>> parent of b31d845 (Revert "Added rock")
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1782 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 88.3 MB.
 System memory in use after: 88.4 MB.
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1910,6 +2129,8 @@ Total: 2.124500 ms (FindLiveObjects: 0.217800 ms CreateObjectMapping: 0.095800 m
 >>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
+=======
+>>>>>>> parent of b31d845 (Revert "Added rock")
 Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2274.
 Total: 1.921200 ms (FindLiveObjects: 0.182200 ms CreateObjectMapping: 0.070200 ms MarkObjects: 1.652800 ms  DeleteObjects: 0.015200 ms)
 
@@ -1922,6 +2143,9 @@ Start importing Assets/Animation/Enemy/Fire/Off.controller using Guid(34f7fe22d6
   Import took 0.025397 seconds .
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of b31d845 (Revert "Added rock")
+=======
 >>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
@@ -1931,6 +2155,7 @@ Start importing Assets/Animation/Enemy/Fire/Off.controller using Guid(34f7fe22d6
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1944,6 +2169,8 @@ Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
 >>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
+=======
+>>>>>>> parent of b31d845 (Revert "Added rock")
 Registered in 0.001741 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
@@ -1951,6 +2178,9 @@ Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 0.68 ms, found 1 plugins.
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of b31d845 (Revert "Added rock")
+=======
 >>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
@@ -1961,6 +2191,7 @@ Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1980,6 +2211,8 @@ Total: 1.658700 ms (FindLiveObjects: 0.162900 ms CreateObjectMapping: 0.047100 m
 >>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
+=======
+>>>>>>> parent of b31d845 (Revert "Added rock")
 - Completed reload, in  1.123 seconds
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
@@ -1992,6 +2225,9 @@ Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2276.
 Total: 2.291100 ms (FindLiveObjects: 0.319600 ms CreateObjectMapping: 0.115400 ms MarkObjects: 1.834400 ms  DeleteObjects: 0.020500 ms)
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of b31d845 (Revert "Added rock")
+=======
 >>>>>>> parent of b31d845 (Revert "Added rock")
 =======
 >>>>>>> parent of b31d845 (Revert "Added rock")
