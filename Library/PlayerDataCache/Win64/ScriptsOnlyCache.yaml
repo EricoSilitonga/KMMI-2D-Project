@@ -1,6 +1,9 @@
 ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
+    - Checkpoint
+    - FireTrap
+    - FollowPlayerCamera
     - PlayerMovement
     - Saw
     Unity.2D.Animation.Editor.dll:
@@ -12,7 +15,6 @@ ScriptsOnlyBuild:
     - UnityEditor.U2D.IK.IKEditorManagerHelper
     Unity.2D.Tilemap.Editor.dll:
     - UnityEditor.Tilemaps.GridBrush
-    - UnityEditor.Tilemaps.GridBrushEditor
     - UnityEditor.Tilemaps.GridPaintPaletteClipboard
     - UnityEditor.Tilemaps.GridPaintPaletteWindow
     - UnityEditor.Tilemaps.GridPaintingState
@@ -38,7 +40,7 @@ ScriptsOnlyBuild:
     - UnityEditor.TestTools.TestRunner.TestListCacheData
     - UnityEditor.TestTools.TestRunner.TestRun.TestJobDataHolder
   sceneClasses:
-    Assets/Scenes/SampleScene.unity:
+    Assets/Scenes/Level 1.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -55,6 +57,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 58
       Script: {instanceID: 0}
+    - Class: 61
+      Script: {instanceID: 0}
     - Class: 70
       Script: {instanceID: 0}
     - Class: 74
@@ -70,9 +74,78 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 612}
     - Class: 114
-      Script: {instanceID: 2454}
+      Script: {instanceID: 2272}
     - Class: 114
-      Script: {instanceID: 22390}
+      Script: {instanceID: 2324}
+    - Class: 114
+      Script: {instanceID: 2456}
+    - Class: 114
+      Script: {instanceID: 2666}
+    - Class: 114
+      Script: {instanceID: 32914}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 212
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 19719996
+      Script: {instanceID: 0}
+    - Class: 156049354
+      Script: {instanceID: 0}
+    - Class: 483693784
+      Script: {instanceID: 0}
+    - Class: 850595691
+      Script: {instanceID: 0}
+    - Class: 1839735485
+      Script: {instanceID: 0}
+    Assets/Scenes/Level 2.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 50
+      Script: {instanceID: 0}
+    - Class: 58
+      Script: {instanceID: 0}
+    - Class: 61
+      Script: {instanceID: 0}
+    - Class: 70
+      Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 612}
+    - Class: 114
+      Script: {instanceID: 2272}
+    - Class: 114
+      Script: {instanceID: 2324}
+    - Class: 114
+      Script: {instanceID: 2456}
+    - Class: 114
+      Script: {instanceID: 2666}
+    - Class: 114
+      Script: {instanceID: 32914}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -216,10 +289,22 @@ ScriptsOnlyBuild:
     className: RawImage
   - hash:
       serializedVersion: 2
+      Hash: 3274e0b61d4f0667eefe285e5f9d77c5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: FollowPlayerCamera
+  - hash:
+      serializedVersion: 2
       Hash: cfdd0010efd7b54c2b7512656dbc9119
     assemblyName: Unity.2D.IK.Runtime.dll
     namespaceName: UnityEngine.U2D.IK
     className: IKManager2D
+  - hash:
+      serializedVersion: 2
+      Hash: 98abbaa9249f0a8ab6f6e9bc42dafde6
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Saw
   - hash:
       serializedVersion: 2
       Hash: a1aa98c78061c6f03a8c124cda576e67
@@ -268,6 +353,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
     className: TextMeshProUGUI
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: FireTrap
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -612,12 +703,13 @@ ScriptsOnlyBuild:
     className: FabrikSolver2D
   - hash:
       serializedVersion: 2
-      Hash: ced4c8fb63307453a206ccb7672c33c0
+      Hash: d39b3256f489317d18c11d31928d1575
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
-    className: Saw
+    className: Checkpoint
   platform: 19
   scenePathNames:
-  - Assets/Scenes/SampleScene.unity
+  - Assets/Scenes/Level 1.unity
+  - Assets/Scenes/Level 2.unity
   playerPath: C:/Users/ERICO SILITONGA/Desktop/Unity Projects/KMMI 2D Project/KMMI
     2D Project.exe

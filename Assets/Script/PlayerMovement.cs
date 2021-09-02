@@ -19,9 +19,12 @@ public class PlayerMovement : MonoBehaviour
     private bool isRunning,isIdle;
     private bool isFaceLeft = false;
     public LayerMask whatIsGround;
+    public int score;
+    public UI ui;
 
     private void Start()
     {
+        score = 0;
         transform = GetComponent<Transform>();
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
@@ -64,20 +67,16 @@ public class PlayerMovement : MonoBehaviour
         {
             isIdle = false;
         }
-
-        
-        CheckAnimation();
-    }
-
-    private void FixedUpdate()
-    {
         rb.velocity = new Vector2(Input.GetAxisRaw("Horizontal") * moveSpeed, rb.velocity.y);
         if (Input.GetKeyDown(KeyCode.Space) && IsGrounded())
         {
             rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
         }
 
+        CheckAnimation();
     }
+
+ 
 
     bool IsGrounded()
     {
@@ -93,5 +92,11 @@ public class PlayerMovement : MonoBehaviour
     public void GameOver()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+    }
+
+    public void AddScore(int value)
+    {
+        score++;
+        ui.SetScoreText(score);
     }
 }
