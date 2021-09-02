@@ -12,7 +12,7 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField]
     private float jumpForce;
     [SerializeField]
-    private Transform saw;
+    private Transform transform;
     private float moveDir;
     [SerializeField]
     private Animator anim;
@@ -22,7 +22,7 @@ public class PlayerMovement : MonoBehaviour
 
     private void Start()
     {
-        saw = GetComponent<Transform>();
+        transform = GetComponent<Transform>();
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
     }
@@ -81,13 +81,13 @@ public class PlayerMovement : MonoBehaviour
 
     bool IsGrounded()
     {
-        return Physics2D.Raycast(saw.position, Vector2.down, 2f,whatIsGround);
+        return Physics2D.Raycast(transform.position, Vector2.down, 2f,whatIsGround);
     }
 
     void Flip()
     {
         isFaceLeft = !isFaceLeft;
-        saw.Rotate(0.0f, 180f, 0f);
+        transform.Rotate(0.0f, 180f, 0f);
     }
 
     public void GameOver()
