@@ -70,6 +70,7 @@ public class PlayerMovement : MonoBehaviour
         rb.velocity = new Vector2(Input.GetAxisRaw("Horizontal") * moveSpeed, rb.velocity.y);
         if (Input.GetKeyDown(KeyCode.Space) && IsGrounded())
         {
+            AudioManager.instance.PlaySFX(0);
             rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
         }
 
@@ -91,6 +92,7 @@ public class PlayerMovement : MonoBehaviour
 
     public void GameOver()
     {
+        AudioManager.instance.PlaySFX(2);
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 
@@ -98,5 +100,6 @@ public class PlayerMovement : MonoBehaviour
     {
         score++;
         ui.SetScoreText(score);
+        AudioManager.instance.PlaySFX(1);
     }
 }
