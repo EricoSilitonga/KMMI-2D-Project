@@ -20,6 +20,7 @@ public class Checkpoint : MonoBehaviour
             }
             else
             {
+                AdManager.instance.PlayAd();
                 SceneManager.LoadScene(nextScene);
             }
         }

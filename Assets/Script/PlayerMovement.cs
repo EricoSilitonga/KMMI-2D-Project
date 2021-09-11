@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityStandardAssets.CrossPlatformInput;
 
 public class PlayerMovement : MonoBehaviour
 {
@@ -38,7 +39,7 @@ public class PlayerMovement : MonoBehaviour
 
     private void Update()
     {
-        moveDir = Input.GetAxisRaw("Horizontal");
+        moveDir = CrossPlatformInputManager.GetAxisRaw("Horizontal");
         
         if (Mathf.Abs(rb.velocity.x)>= 0.01f)
         {
@@ -67,8 +68,8 @@ public class PlayerMovement : MonoBehaviour
         {
             isIdle = false;
         }
-        rb.velocity = new Vector2(Input.GetAxisRaw("Horizontal") * moveSpeed, rb.velocity.y);
-        if (Input.GetKeyDown(KeyCode.Space) && IsGrounded())
+        rb.velocity = new Vector2(CrossPlatformInputManager.GetAxisRaw("Horizontal") * moveSpeed, rb.velocity.y);
+        if (CrossPlatformInputManager.GetButtonDown("Jump") && IsGrounded())
         {
             AudioManager.instance.PlaySFX(0);
             rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
@@ -98,8 +99,14 @@ public class PlayerMovement : MonoBehaviour
 
     public void AddScore(int value)
     {
-        score++;
+        score+=value;
         ui.SetScoreText(score);
         AudioManager.instance.PlaySFX(1);
+    }
+
+    public void OnShowAdButton()
+    {
+        AddScore(50);
+        AdManager.instance.PlayAd();
     }
 }
